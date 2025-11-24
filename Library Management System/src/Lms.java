@@ -16,7 +16,7 @@ public class Lms
 			System.out.println("Connection to sql database succesful");
 			while (true) 
 			{
-                System.out.println("---Welcome to Library Management System Of Pragati Engineering College---");
+                System.out.println("---Welcome to Library Management System of Pragati Engineering College---");
                 System.out.println("1.Add New Book");
                 System.out.println("2.View Books");
                 System.out.println("3.Issue Book");
