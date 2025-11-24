@@ -142,7 +142,7 @@ public class Lms
 			}
 			catch(Exception e)
 			{
-				System.out.println("Error arised");
+				System.out.println("Error Occured");
 			}			
 		}
 	}
